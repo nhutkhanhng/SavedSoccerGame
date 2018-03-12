@@ -1,0 +1,23 @@
+﻿  BaseGameEntity.cpp
+  Generating Code...
+  Compiling...
+  FieldPlayer.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  WindowUtils.cpp
+  Vector2D.cpp
+  MessageDispatcher.cpp
+  EntityManager.cpp
+  Cgdi.cpp
+  TeamStates.cpp
+  SupportSpotCalculator.cpp
+  SteeringBehaviors.cpp
+  SoccerTeam.cpp
+  SoccerPitch.cpp
+  SoccerBall.cpp
+  PlayerBase.cpp
+  Goalkepper.cpp
+  GoalKeeperStates.cpp
+  FieldPlayerStates.cpp
+  Client.vcxproj -> C:\Users\nhutk\source\repos\[TankBattle]\Debug\Client.exe
